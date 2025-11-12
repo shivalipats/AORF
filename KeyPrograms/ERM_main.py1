@@ -136,8 +136,9 @@ if __name__ == '__main__':
 
 # https://developer.precisely.com/pricing    30 days free 2500 calls , 50$/month for 5k  create test account
 #https://developer.precisely.com/apis/911
-# Key iMdnXvd6GB8Gl9ZN6JpSCAoiAJ8bLo5A Secret Key  hD9nhbEcQzo6AuLr
+# Key (Changes for each run)  Secret Key  (Located in precisely)
 # Blocked Crossings https://www.fra.dot.gov/blockedcrossings/
 #34.25364436472964, -84.37488541534401  Ball Ground East Ground, Cumming GA
 #41.1147149010772, -73.423710184656     20 Fairview Ave, Norwalk, CT
+
 
