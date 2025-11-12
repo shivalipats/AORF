@@ -1,0 +1,4 @@
+@echo off
+set "VIRTUAL_ENV=C:\Python39\Python39_env1"
+
+set "PATH=%VIRTUAL_ENV%\Scripts;%PATH%"

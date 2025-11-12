@@ -1,0 +1,5 @@
+@echo off 
+cls
+cmd /k "cd /d C:\TheSmartTrain & ActivateEnv.bat & cd /d    C:\Python\Python39 & python C:\TheSmartTrain\ERM_Main.py  %1 %2 & cd /d C:\TheSmartTrain & DeActivateEnv.bat & exit"
+
+
