@@ -1,3 +1,0 @@
-@echo off 
-cmd /k "cd /d C:\TheSmartTrain & ActivateEnv.bat & cd /d    C:\TheSmartTrain & python Welcome.py & cd /d C:\TheSmartTrain & DeActivateEnv.bat & exit"
-
