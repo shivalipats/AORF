@@ -1,5 +1,0 @@
-@echo off 
-cls
-cmd /k "cd /d C:\TheSmartTrain & ActivateEnv.bat & cd /d    C:\Python\Python38 & python C:\TheSmartTrain\GetKeys.py  %1 %2 & cd /d C:\TheSmartTrain & DeActivateEnv.bat & exit"
-
-
